@@ -20,7 +20,7 @@ const items = [
     <div className="mx-auto max-w-[300px]">
       <img className="rounded-md" src={stella} alt="" />
       <div className="text-center font-semibold text-lg my-2">
-        <h1>Regina Stella Palan eron</h1>
+        <h1>Regina Stella Palan Teron</h1>
       </div>
     </div>,
     <div className="mx-auto max-w-[300px]">
