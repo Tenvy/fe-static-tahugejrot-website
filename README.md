@@ -1,5 +1,7 @@
 # Ecommerce Web School Project
 
+https://tahugejrot.netlify.app/
+
 Head over to https://vitejs.dev/ to learn more about using vite
 
 ## Quick start:
