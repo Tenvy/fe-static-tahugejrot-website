@@ -4,6 +4,8 @@ import 'react-alice-carousel/lib/alice-carousel.css';
 import anime from '../assets/anime.jpg'
 import capibara from '../assets/capibara.jpg'
 import skylerwhite from '../assets/skylerwhite.jpg'
+import septi from '../assets/septi.jpeg'
+import stella from '../assets/stella.jpeg'
 
 export const Team = () => {
 
@@ -16,13 +18,13 @@ export const Team = () => {
 
 const items = [
     <div className="mx-auto max-w-[300px]">
-      <img className="rounded-md" src={anime} alt="" />
+      <img className="rounded-md" src={stella} alt="" />
       <div className="text-center font-semibold text-lg my-2">
         <h1>Regina Stella Palan eron</h1>
       </div>
     </div>,
     <div className="mx-auto max-w-[300px]">
-      <img className="rounded-md" src={anime} alt="" />
+      <img className="rounded-md" src={septi} alt="" />
       <div className="text-center font-semibold text-lg my-2">
         <h1>Septia Trianti</h1>
       </div>
